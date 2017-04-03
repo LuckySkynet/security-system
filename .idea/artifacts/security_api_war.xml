@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="security-api:war">
+    <output-path>$PROJECT_DIR$/security-api/target</output-path>
+    <root id="archive" name="security-api.war">
+      <element id="artifact" artifact-name="security-api:war exploded" />
+    </root>
+  </artifact>
+</component>

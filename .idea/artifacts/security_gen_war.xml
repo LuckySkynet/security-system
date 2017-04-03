@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="security-gen:war">
+    <output-path>$PROJECT_DIR$/security-gen/target</output-path>
+    <root id="archive" name="security-gen.war">
+      <element id="artifact" artifact-name="security-gen:war exploded" />
+    </root>
+  </artifact>
+</component>

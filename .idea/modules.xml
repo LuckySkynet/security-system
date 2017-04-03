@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/security-api/security-api.iml" filepath="$PROJECT_DIR$/security-api/security-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-common/security-common.iml" filepath="$PROJECT_DIR$/security-common/security-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-gen/security-gen.iml" filepath="$PROJECT_DIR$/security-gen/security-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-schedule/security-schedule.iml" filepath="$PROJECT_DIR$/security-schedule/security-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-shiro/security-shiro.iml" filepath="$PROJECT_DIR$/security-shiro/security-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-system.iml" filepath="$PROJECT_DIR$/security-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-web/security-web.iml" filepath="$PROJECT_DIR$/security-web/security-web.iml" />
+    </modules>
+  </component>
+</project>
