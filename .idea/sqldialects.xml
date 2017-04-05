@@ -14,6 +14,5 @@
     <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysRoleMenuDao.xml" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysUserDao.xml" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysUserRoleDao.xml" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/security-web/src/main/resources/com.skynet.dao/SysOssDao.xml" dialect="MySQL" />
   </component>
 </project>
