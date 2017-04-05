@@ -5,6 +5,7 @@
     <artifactId>security-system</artifactId>
     <packaging>pom</packaging>
     <version>${security-version}</version>
+    <description>security-system</description>
 
     <modules>
         <module>security-api</module> <!-- API模块 -->

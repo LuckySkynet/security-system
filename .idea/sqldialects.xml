@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/security-common/src/main/resources/com.skynet.dao/SysConfigDao.xml" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/security-common/src/main/resources/com.skynet.dao/SysLogDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/doc/db.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-api/src/main/resources/com/skynet/dao/TokenDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-api/src/main/resources/com/skynet/dao/UserDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-common/src/main/resources/com/skynet/dao/SysConfigDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-common/src/main/resources/com/skynet/dao/SysLogDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-gen/src/main/resources/com/skynet/dao/SysGeneratorDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-schedule/src/main/resources/com/skynet/dao/ScheduleJobDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-schedule/src/main/resources/com/skynet/dao/ScheduleJobLogDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysMenuDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysRoleDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysRoleMenuDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysUserDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-shiro/src/main/resources/com/skynet/dao/SysUserRoleDao.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/security-web/src/main/resources/com.skynet.dao/SysOssDao.xml" dialect="MySQL" />
   </component>
 </project>

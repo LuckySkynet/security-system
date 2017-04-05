@@ -33,7 +33,7 @@ public class Constant {
 
         private int value;
 
-        private MenuType(int value) {
+        MenuType(int value) {
             this.value = value;
         }
 
@@ -57,7 +57,7 @@ public class Constant {
         PAUSE(1);
         private int value;
 
-        private ScheduleStatus(int value) {
+        ScheduleStatus(int value) {
             this.value = value;
         }
 
@@ -85,7 +85,7 @@ public class Constant {
 
         private int value;
 
-        private CloudService(int value) {
+        CloudService(int value) {
             this.value = value;
         }
 
